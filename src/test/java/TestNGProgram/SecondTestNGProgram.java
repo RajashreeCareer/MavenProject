@@ -19,6 +19,7 @@ public class SecondTestNGProgram {
 	@Test(priority=3)
 	public void logoutApp() {
 		driver.close();
+		System.out.print("git 1st update");
 	}
 
 }
