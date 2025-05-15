@@ -20,6 +20,7 @@ public class SecondTestNGProgram {
 	public void logoutApp() {
 		driver.close();
 		System.out.print("git 1st update");
+		System.out.print("github 1st update");
 	}
 
 }
