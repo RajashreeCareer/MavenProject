@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-08T17:48:49 IST" name="Suite" finished-at="2025-05-08T17:48:55 IST" duration-ms="6061">
+    <groups>
+    </groups>
+    <test started-at="2025-05-08T17:48:49 IST" name="Test" finished-at="2025-05-08T17:48:55 IST" duration-ms="6061">
+      <class name="TestNGProgram.FirstTestNGProgram">
+        <test-method signature="openApp()[pri:1, instance:TestNGProgram.FirstTestNGProgram@4b5a5ed1]" started-at="2025-05-08T17:48:49 IST" name="openApp" finished-at="2025-05-08T17:48:51 IST" duration-ms="1592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method signature="loginApp()[pri:2, instance:TestNGProgram.FirstTestNGProgram@4b5a5ed1]" started-at="2025-05-08T17:48:51 IST" name="loginApp" finished-at="2025-05-08T17:48:53 IST" duration-ms="1878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApp -->
+        <test-method signature="logoutApp()[pri:3, instance:TestNGProgram.FirstTestNGProgram@4b5a5ed1]" started-at="2025-05-08T17:48:53 IST" name="logoutApp" finished-at="2025-05-08T17:48:53 IST" duration-ms="90" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutApp -->
+      </class> <!-- TestNGProgram.FirstTestNGProgram -->
+      <class name="TestNGProgram.SecondTestNGProgram">
+        <test-method signature="openApp()[pri:1, instance:TestNGProgram.SecondTestNGProgram@48aaecc3]" started-at="2025-05-08T17:48:53 IST" name="openApp" finished-at="2025-05-08T17:48:54 IST" duration-ms="1024" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method signature="loginApp()[pri:2, instance:TestNGProgram.SecondTestNGProgram@48aaecc3]" started-at="2025-05-08T17:48:54 IST" name="loginApp" finished-at="2025-05-08T17:48:55 IST" duration-ms="1222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApp -->
+        <test-method signature="logoutApp()[pri:3, instance:TestNGProgram.SecondTestNGProgram@48aaecc3]" started-at="2025-05-08T17:48:55 IST" name="logoutApp" finished-at="2025-05-08T17:48:55 IST" duration-ms="209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutApp -->
+      </class> <!-- TestNGProgram.SecondTestNGProgram -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
